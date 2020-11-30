@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    background-color: #8abeb0;
+}
+
+p {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+    margin-left: 100px;
+    color: rgb(22, 92, 97);
+  }
+
+h1 {
+    font-size: 100px;
+    color: burlywood;
+}
+
+h2 {
+    font-size: 75px;
+    color: burlywood;
+}
+
+
+img {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
